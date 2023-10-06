@@ -3,14 +3,6 @@
 
 My homelab's centerpiece is a custom-built bare-metal server turned into a native hypervisor. It handles virtual machines and various projects with ease, thanks to its carefully selected hardware.
 
-
-
-## B-rolls
-
-![App Screenshot](https://nhatblog.com/wp-content/uploads/2023/01/DSC00372-768x577.jpg)
-
-![App Screenshot](https://nhatblog.com/wp-content/uploads/2023/01/DSC00379-768x577.jpg)
-
 ## Documentation
 
 **CPU**: [Intel Xeon E5 2640v4 2.40 GHz with 10 cores 20 threads](https://www.intel.com/content/www/us/en/products/sku/92984/intel-xeon-processor-e52640-v4-25m-cache-2-40-ghz/specifications.html)
@@ -37,6 +29,11 @@ My homelab's centerpiece is a custom-built bare-metal server turned into a nativ
 
 **PSU**: [ARESGAME 550W](https://www.amazon.com/ARESGAME-Supply-80Plus-Bronze-Non-Modular/dp/B09Y826BQ4?th=1)
 
+## B-rolls
+
+![App Screenshot](https://nhatblog.com/wp-content/uploads/2023/01/DSC00372-768x577.jpg)
+
+![App Screenshot](https://nhatblog.com/wp-content/uploads/2023/01/DSC00379-768x577.jpg)
 
 ## Description
 
