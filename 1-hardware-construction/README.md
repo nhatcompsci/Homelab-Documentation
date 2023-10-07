@@ -1,5 +1,5 @@
 
-# About
+# About the project
 
 My homelab's centerpiece is a custom-built bare-metal server turned into a native hypervisor. It handles virtual machines and various projects with ease, thanks to its carefully selected hardware.
 
